@@ -1,0 +1,18 @@
+.app-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Roboto';
+  overflow-y: scroll;
+  height: 100vh;
+}
+.ccbp-heading {
+  color: #0967d2;
+  font-size: larger;
+  text-align: center;
+}
+
+.chrono-container {
+  max-width: 1000px;
+}
